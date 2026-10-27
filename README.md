@@ -10,17 +10,17 @@ github.com/your-username ──────────────────�
 <tr>
 <td width="55%" valign="top">
 
-# HI, I'M <br> **YOUR NAME** <font color="#FF5500">*</font>
+# HI, I'M <br> **YUVRAJ SINGH PAWAR** <font color="#FF5500">*</font>
 
 ### **DEVELOPER / DESIGNER / AI VIDEO CREATOR**
 
 I build modern web applications, design intuitive user experiences, and explore the creative possibilities of AI.
 
-> **> Turning ideas into digital products.**
+> **> Turning ideas into digital experiences one bit at a time.**
 
 </td>
 <td width="25%" align="center" valign="middle">
-  <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80" width="100%" style="border: 2px solid #000;" alt="Profile Picture"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQF570UvX-ygoA/profile-displayphoto-scale_400_400/B4DZiYI71aHwAg-/0/1754899138671?e=1794441600&v=beta&t=z952eYgBCBlb0MCi7ns6G95Gw0NCfdumYiwYuU7c0RM" width="100%" style="border: 2px solid #000;" alt="Profile Picture"/>
 </td>
 <td width="20%" valign="top">
 
