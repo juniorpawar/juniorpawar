@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-github.com/your-username ───────────────────────────────────────────────────────────── BUILD / DESIGN / CREATE
+github.com/juniorpawar ───────────────────────────────────────────────────────────────────── BUILD / DESIGN / CREATE
 ```
 
 </div>
@@ -37,7 +37,7 @@ REPEAT  ✳
 ---
 
 **LOCATION**  
-📍 **INDIA**  
+📍 **INDORE, INDIA**  
 
 ---
 
@@ -59,18 +59,14 @@ REPEAT  ✳
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### **BACKEND**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### **TOOLS & OTHERS**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -87,19 +83,19 @@ Employee and staff operations management system with attendance, task tracking, 
 
 `Python` `Django` `SQLite`
 
-[▶ Live Demo](https://example.com) &nbsp;|&nbsp; [💻 GitHub](https://github.com)
+[▶ Live Demo](https://app.wondersecurity.in/accounts/login/) &nbsp;|&nbsp; [💻 GitHub]()
 
 </td>
 <td width="50%" valign="top">
 
-### 🕌 **Ujjain Dekho**
+### 🪷 **Ujjain Dekho**
 `ExploreUjjain.exe`
 
 A web platform to explore Ujjain, discover places and create a better local digital experience.
 
 `React` `Django REST Framework`
 
-[▶ Live Demo](https://example.com) &nbsp;|&nbsp; [💻 GitHub](https://github.com)
+[▶ Live Demo](https://ujjaindekho.in) &nbsp;|&nbsp; [💻 GitHub](https://github.com/Sengaraditya07/WebApp_UjjainDekhoFrontend.git)
 
 </td>
 </tr>
