@@ -20,7 +20,7 @@ I build modern web applications, design intuitive user experiences, and explore 
 
 </td>
 <td width="25%" align="center" valign="middle">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQF570UvX-ygoA/profile-displayphoto-scale_400_400/B4DZiYI71aHwAg-/0/1754899138671?e=1794441600&v=beta&t=z952eYgBCBlb0MCi7ns6G95Gw0NCfdumYiwYuU7c0RM" width="100%" style="border: 2px solid #000;" alt="Profile Picture"/>
+  <img src="./profile-img.jpg" width="100%" style="border: 2px solid #000;" alt="Profile Picture"/>
 </td>
 <td width="20%" valign="top">
 
